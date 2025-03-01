@@ -48,7 +48,7 @@ body {
     transition:all linear 0.4s;
 }
 
-.habilidades li:hover{;
+.habilidades li:hover{
     border:2px solid white;
     transform:scale(1.03);
     box-shadow: 4px 7px 4px burlywood;
